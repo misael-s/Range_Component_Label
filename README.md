@@ -19,7 +19,7 @@ To install addon is simple, basicly you need enter in User Preferences of the [U
 
 The using of this addon is simple, but if you want a better know how it works follow the below steps.
 
-**Step-01:** Save you **.blender** or **.ranger** file in a folder will be you root dir for all files in you game.
+**Step-01:** Save you **.blender** or **.range** file in a folder will be you root dir for all files in you game.
 
 ![Save you file](/readme-files/screenshot_01.png)
 
