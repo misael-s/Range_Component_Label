@@ -12,3 +12,24 @@ O uso do Range Component Label é bem fácil uma vez que se entende seu propósi
 Você pode definir algumas funcionalidades adicionais no Range Component Label. Teste cada opção e veja qual habilitar para melhor proveito ao trabalhar com Components.
 
 ![Addon Preferences](/readme-files/preferences/preferences.png)
+
+Quando criar o diretório de modelos não deixe scripts na raiz, crie uma ou mais pasta na raiz onde vai guardar os scripts.
+
+**Do this**:
+> - templates_dir
+>   - scripts
+>     - player
+>       - move.py
+>     - enemy
+>   - othe_scripts
+>     - ui.py
+
+**Don't do this**:
+> - templates_dir
+>   - move.py
+
+### Stages of Range Component Label
+
+Quando você define as preferências do Range Component Label seu comportamento é alterado. Também quando você cria um novo projeto ele apresenta uma interface diferente.
+
+![Stages](/readme-files/stages_range_component/stages_range_component_label.png)
