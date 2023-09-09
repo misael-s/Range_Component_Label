@@ -11,6 +11,8 @@ Lang: [Português (PT-BR)](./README_PT.md) - [English (EN)](./README.md)
 - [Register](#register-and-open-external)
 - [Sensor Tools](#sensor-tools-and-toggle-area)
 
+#### Donwload: [release 1.4](https://github.com/misael-s/Range_Component_Label/releases/tag/v1.4.0)
+
 ## **O que é?**
 
 Range Component Label é um facilitador para se trabalhar com a criação, edição e registro de Components (Scripts) da .Range. Ele permite utilizar e ornanizar os Components de maneira interna (.Range) e/ou externa (diretório raiz onde fica salvo .Range), tornando todo o processo de desenvolvimento mais rápido e simplificado.
