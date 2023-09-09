@@ -1,6 +1,6 @@
 # Range Component Label
 
-Lang: [Português (PT-BR)](./README_PT.md) - [English (EN)](./README_EN.md)
+Lang: [Português (PT-BR)](./README_PT.md) - [English (EN)](./README.md)
 
 - [Usage](#uso)
 - [Preferences](#addon-preferences)
