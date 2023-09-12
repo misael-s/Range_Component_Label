@@ -27,7 +27,7 @@ Você pode definir algumas funcionalidades adicionais no Range Component Label. 
 
 ![Addon Preferences](./readme-files/preferences/preferences.png)
 
-Quando criar o diretório de modelos não deixe scripts na raiz, crie uma ou mais pasta na raiz onde vai guardar os scripts.
+Quando criar o diretório de modelos não deixe scripts na raiz, crie uma ou mais pasta na raiz onde vai guardar os scripts. É necessário ao menos um script no diretório de modelos para que seja visível na aba INTERNAL do addon. Você pode utilizar o Component padrão da engine ou [esse](https://rangeengine.tech/api/14/html/api/bge.types.KX_PythonComponent.html#KX_PythonComponent) para criar o arquivo no diretório de modelos seguindo a estrutura abaixo:
 
 **Do this**:
 > - templates_dir
