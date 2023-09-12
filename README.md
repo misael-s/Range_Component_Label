@@ -27,7 +27,7 @@ You can define some additional functionality in the Range Component Label. Test 
 
 ![Addon Preferences](./readme-files/preferences/preferences.png)
 
-When creating the templates directory, do not leave scripts in the root, create one or more folders in the root where you will store the scripts.
+When creating the templates directory, do not leave scripts in the root, create one or more folders in the root where you will store the scripts. At least one script is required in the templates directory to be visible in the addon's INTERNAL tab. You can use the engine's default Component or [this](https://rangeengine.tech/api/14/html/api/bge.types.KX_PythonComponent.html#KX_PythonComponent) to create the file in the template directory following the structure below:
 
 **Do this**:
 > - templates_dir
